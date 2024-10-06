@@ -1,10 +1,6 @@
 <h2 align="center">BetterScoardboard - Color Lines</h2>
 
-###
-
-<div align="center">
-  <img height="200" src="https://i.postimg.cc/wjFzncVn/pacmanlife-scoreboard.png"  />
-</div>
+# This is intended for my personal use, feel free to use it yourself. I just did a bit changes to some of the UI.
 
 ###
 
