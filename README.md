@@ -1,4 +1,4 @@
-<h2 align="center">BetterScoardboard - Color Lines</h2>
+<h2 align="center">BetterScoardboard</h2>
 
 # This is intended for my personal use, feel free to use it yourself. I just did a bit changes to some of the UI.
 
