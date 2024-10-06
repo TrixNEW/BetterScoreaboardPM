@@ -1,4 +1,4 @@
-<h2 align="center">ScoreboardJavaPM - Color Lines</h2>
+<h2 align="center">BetterScoardboard - Color Lines</h2>
 
 ###
 
